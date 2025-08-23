@@ -1,23 +1,44 @@
 <RCC>
   <qresource prefix="Icon">
+    <file>2fa.png</file>
+    <file>3ab99016-a59a-436a-af6b-2f338d3a5352-ezgif.com-crop.gif</file>
+    <file>304ce24d-697d-4a59-bf1e-9200842af37f-ezgif.com-crop.gif</file>
     <file>account.png</file>
+    <file>add.png</file>
+    <file>add-user.png</file>
+    <file>ads.png</file>
+    <file>ae0ce83e-6380-4416-8d6a-a44f81a4f25e-ezgif.com-crop.gif</file>
     <file>Angry.png</file>
     <file>bacckup.png</file>
+    <file>bookmark.png</file>
     <file>Care.png</file>
+    <file>cc8f5325-b005-4d04-ab4c-481390fa7eb7-ezgif.com-crop.gif</file>
+    <file>cc854cd7-6dfa-40bf-bfb6-cec3a168984e-ezgif.com-crop.gif</file>
     <file>change_info.png</file>
     <file>check.ico</file>
+    <file>check_page.png</file>
+    <file>check_proxy.png</file>
     <file>checklist.png</file>
     <file>check-mark.png</file>
     <file>cleaning.png</file>
     <file>closeicon.png</file>
+    <file>code.png</file>
+    <file>copy.png</file>
+    <file>copyright.png</file>
     <file>corner.png</file>
     <file>currency.png</file>
+    <file>customer.png</file>
     <file>data.png</file>
     <file>data-transfer.png</file>
     <file>delete.png</file>
+    <file>dollar.png</file>
     <file>down-arrow.png</file>
     <file>down-arrow_white.png</file>
+    <file>down-drark.png</file>
+    <file>dustbin.png</file>
     <file>edit.png</file>
+    <file>email.png</file>
+    <file>emo-robot-happy-discord.gif</file>
     <file>error (1).png</file>
     <file>error.png</file>
     <file>excel.png</file>
@@ -26,52 +47,233 @@
     <file>Facebook.png</file>
     <file>file.png</file>
     <file>files.png</file>
+    <file>find-my-friend.png</file>
+    <file>finish.wav</file>
+    <file>flag.jpg</file>
     <file>folder.png</file>
     <file>folder-100.png</file>
+    <file>follow.png</file>
     <file>Haha.png</file>
+    <file>hide.png</file>
+    <file>icon.ico</file>
+    <file>id.png</file>
     <file>id-card.png</file>
     <file>import.png</file>
     <file>info.png</file>
     <file>info1.png</file>
+    <file>key.png</file>
     <file>life-insurance.png</file>
+    <file>light.png</file>
     <file>Like.png</file>
     <file>link.png</file>
     <file>login (1).png</file>
     <file>login.png</file>
+    <file>logo.png</file>
     <file>love.png</file>
     <file>map.png</file>
     <file>mental-health.png</file>
+    <file>menu.png</file>
+    <file>minetization.png</file>
     <file>minusico.png</file>
     <file>multimedia.png</file>
     <file>next-button.png</file>
+    <file>night.png</file>
     <file>notification.png</file>
     <file>open (1).png</file>
     <file>open.png</file>
+    <file>openvpn.png</file>
     <file>overflow.png</file>
     <file>page.png</file>
+    <file>parchment.png</file>
+    <file>pass.png</file>
     <file>picture.png</file>
     <file>play.png</file>
     <file>plus.ico</file>
+    <file>plus.png</file>
+    <file>posting.png</file>
     <file>previous.png</file>
+    <file>proxy.png</file>
+    <file>publication.png</file>
+    <file>publishing.png</file>
+    <file>push.png</file>
     <file>qr00.jpg</file>
+    <file>recommend.png</file>
+    <file>reduce.png</file>
     <file>reel.png</file>
+    <file>remove_copyright.png</file>
+    <file>report.png</file>
+    <file>resize.png</file>
     <file>resize.png.png</file>
     <file>Resource.qrc</file>
     <file>restart.png</file>
     <file>restore.png</file>
+    <file>resume.png</file>
+    <file>return.png</file>
+    <file>robot.gif</file>
     <file>Sad.png</file>
     <file>schedule.png</file>
     <file>search.png</file>
+    <file>server.apk</file>
+    <file>server-test.apk</file>
     <file>software.png</file>
+    <file>sort.png</file>
+    <file>splitbot-robot.gif</file>
+    <file>spreadsheet-column.png</file>
     <file>stop.png</file>
+    <file>story.png</file>
     <file>subtract (1).ico</file>
+    <file>surfboard.png</file>
     <file>technology.png</file>
     <file>Telegram.png</file>
+    <file>terminal.png</file>
     <file>text.png</file>
+    <file>un_ads.png</file>
     <file>uncheck.ico</file>
     <file>unchecked.png</file>
+    <file>unpublishing.png</file>
     <file>up-arrow_white.png</file>
     <file>update_v_editor.png</file>
+    <file>user.png</file>
+    <file>video-call.png</file>
+    <file>view.png</file>
+    <file>warningicon.png</file>
+    <file>web-design.png</file>
+    <file>Wow.png</file>
+    <file>2fa.png</file>
+    <file>3ab99016-a59a-436a-af6b-2f338d3a5352-ezgif.com-crop.gif</file>
+    <file>304ce24d-697d-4a59-bf1e-9200842af37f-ezgif.com-crop.gif</file>
+    <file>account.png</file>
+    <file>add.png</file>
+    <file>add-user.png</file>
+    <file>ads.png</file>
+    <file>ae0ce83e-6380-4416-8d6a-a44f81a4f25e-ezgif.com-crop.gif</file>
+    <file>Angry.png</file>
+    <file>bacckup.png</file>
+    <file>bookmark.png</file>
+    <file>Care.png</file>
+    <file>cc8f5325-b005-4d04-ab4c-481390fa7eb7-ezgif.com-crop.gif</file>
+    <file>cc854cd7-6dfa-40bf-bfb6-cec3a168984e-ezgif.com-crop.gif</file>
+    <file>change_info.png</file>
+    <file>check.ico</file>
+    <file>check_page.png</file>
+    <file>check_proxy.png</file>
+    <file>checklist.png</file>
+    <file>check-mark.png</file>
+    <file>cleaning.png</file>
+    <file>closeicon.png</file>
+    <file>code.png</file>
+    <file>copy.png</file>
+    <file>copyright.png</file>
+    <file>corner.png</file>
+    <file>currency.png</file>
+    <file>customer.png</file>
+    <file>data.png</file>
+    <file>data-transfer.png</file>
+    <file>delete.png</file>
+    <file>dollar.png</file>
+    <file>down-arrow.png</file>
+    <file>down-arrow_white.png</file>
+    <file>down-drark.png</file>
+    <file>dustbin.png</file>
+    <file>edit.png</file>
+    <file>email.png</file>
+    <file>emo-robot-happy-discord.gif</file>
+    <file>error (1).png</file>
+    <file>error.png</file>
+    <file>excel.png</file>
+    <file>exchange.png</file>
+    <file>export.png</file>
+    <file>Facebook.png</file>
+    <file>file.png</file>
+    <file>files.png</file>
+    <file>find-my-friend.png</file>
+    <file>finish.wav</file>
+    <file>folder.png</file>
+    <file>folder-100.png</file>
+    <file>follow.png</file>
+    <file>Haha.png</file>
+    <file>hide.png</file>
+    <file>icon.ico</file>
+    <file>id.png</file>
+    <file>id-card.png</file>
+    <file>import.png</file>
+    <file>info.png</file>
+    <file>info1.png</file>
+    <file>key.png</file>
+    <file>life-insurance.png</file>
+    <file>light.png</file>
+    <file>Like.png</file>
+    <file>link.png</file>
+    <file>login (1).png</file>
+    <file>login.png</file>
+    <file>logo.png</file>
+    <file>love.png</file>
+    <file>map.png</file>
+    <file>mental-health.png</file>
+    <file>menu.png</file>
+    <file>minetization.png</file>
+    <file>minusico.png</file>
+    <file>multimedia.png</file>
+    <file>next-button.png</file>
+    <file>night.png</file>
+    <file>notification.png</file>
+    <file>open (1).png</file>
+    <file>open.png</file>
+    <file>openvpn.png</file>
+    <file>overflow.png</file>
+    <file>page.png</file>
+    <file>parchment.png</file>
+    <file>pass.png</file>
+    <file>picture.png</file>
+    <file>play.png</file>
+    <file>plus.ico</file>
+    <file>plus.png</file>
+    <file>posting.png</file>
+    <file>previous.png</file>
+    <file>proxy.png</file>
+    <file>publication.png</file>
+    <file>publishing.png</file>
+    <file>push.png</file>
+    <file>qr00.jpg</file>
+    <file>recommend.png</file>
+    <file>reduce.png</file>
+    <file>reel.png</file>
+    <file>remove_copyright.png</file>
+    <file>report.png</file>
+    <file>resize.png</file>
+    <file>resize.png.png</file>
+    <file>Resource.qrc</file>
+    <file>restart.png</file>
+    <file>restore.png</file>
+    <file>resume.png</file>
+    <file>return.png</file>
+    <file>robot.gif</file>
+    <file>Sad.png</file>
+    <file>schedule.png</file>
+    <file>search.png</file>
+    <file>server.apk</file>
+    <file>server-test.apk</file>
+    <file>software.png</file>
+    <file>sort.png</file>
+    <file>splitbot-robot.gif</file>
+    <file>spreadsheet-column.png</file>
+    <file>stop.png</file>
+    <file>story.png</file>
+    <file>subtract (1).ico</file>
+    <file>surfboard.png</file>
+    <file>technology.png</file>
+    <file>Telegram.png</file>
+    <file>terminal.png</file>
+    <file>text.png</file>
+    <file>un_ads.png</file>
+    <file>uncheck.ico</file>
+    <file>unchecked.png</file>
+    <file>unpublishing.png</file>
+    <file>up-arrow_white.png</file>
+    <file>update_v_editor.png</file>
+    <file>user.png</file>
+    <file>video-call.png</file>
+    <file>view.png</file>
     <file>warningicon.png</file>
     <file>web-design.png</file>
     <file>Wow.png</file>
